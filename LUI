@@ -2,7 +2,7 @@
 
 1.3.0
 
-ASSEPRMPTMSG=0
+ASSEPRMPTMSG=DEV_MODE
 ASSEMSGCNTNT:
 Unicode hexadecimals fix released
 
